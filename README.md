@@ -1,3 +1,15 @@
+# ScreenShort
+
+![image](https://github.com/sagar2127/api-image/assets/82405833/dad30a6f-b065-4076-a7e9-b8f32820d1ea)
+
+![image](https://github.com/sagar2127/api-image/assets/82405833/bc199dd2-3c49-4734-8602-4dc8a7ce6ffb)
+
+<h1>mobile View</h1>
+
+![image](https://github.com/sagar2127/api-image/assets/82405833/2f023191-8e4a-4e8c-a386-a87b0a6ff29c)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
